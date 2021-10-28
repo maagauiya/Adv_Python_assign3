@@ -1,3 +1,4 @@
+BY:Bekarys Magauiya, Aldiyar Akhmediyev
 # Authorization using jwt tokens (Flask)
 
 **Installation**<br />
